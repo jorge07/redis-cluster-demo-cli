@@ -1,0 +1,6 @@
+{
+    "name": "jorge07/predis",
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
